@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me:
 AI & ML Enthusiast | Python Developer | Passionate about Deep Learning and Data Analysis | Seeking Internship Opportunities 🔍
 
 
